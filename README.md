@@ -5,7 +5,7 @@
 ### About the Dataset:
 ![image](https://github.com/user-attachments/assets/7690ea3e-c133-4ade-a033-11fc25fcf919)
 
-### Dwonload the Microsoft SQL Server Management Tool here [SQl Server](https://www.microsoft.com/en-in/sql-server/sql-server-downloads) and [MSSM](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16&redirectedfrom=MSDN)
+### Download the Microsoft SQL Server Management Tool here [SQl Server](https://www.microsoft.com/en-in/sql-server/sql-server-downloads) and [MSSM](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16&redirectedfrom=MSDN)
 
 ### The Data is Stored in the Table named "Netflix".
 
